@@ -1,0 +1,18 @@
+{
+  "author": "Aditi rawat",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "description": "A simple website built with Node, Express and Pug",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "license": "MIT",
+  "main": "server.js",
+  "name": "simple-node-website",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "version": "0.1.0"
+}

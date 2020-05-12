@@ -1,0 +1,33 @@
+{
+  "profiles": [
+    {
+      "firstname": "Graphic Era",
+      "lastname": "University",
+      "bio": "Graphic Era Deemed to be University (formerly Graphic Era Institute of Technology) is an institute of higher education in Clement Town, Dehradun, Uttarakhand, India. The university was founded as 'Graphic Era Institute of Technology' in 1993. In 2008 it was accorded the status of Deemed to be University.",
+      "tagline": "Dehradun, Uttarakhand",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "geu.jpg",
+      "id": "tom"
+    },
+
+    {
+      "firstname": "Graphic Era",
+      "lastname": "Hill University",
+      "bio": "Graphic Era Hill University (GEHU) is located in Dehradun, Haldwani and Bhimtal, Uttarakhand, India. It was established on 28 April 2011 by an act of the Uttarakhand State under the aegis of Graphic Era Educational Society (GEES), which was set up in 1996 as a non-profit organization.",
+      "tagline": "Dehradun, Uttarakhand",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "geuh.jpg",
+      "id": "sarah"
+    },
+
+    {
+      "firstname": "Graphic Era Hill",
+      "lastname": "Univesity, Bhimtal",
+      "bio": "Graphic Era Hill University (GEHU) is located in Dehradun, Haldwani and Bhimtal, Uttarakhand, India. It was established on 28 April 2011 by an act of the Uttarakhand State under the aegis of Graphic Era Educational Society (GEES), which was set up in 1996 as a non-profit organization.",
+      "tagline": "Bhimtal, Uttarakhand",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "geub.jpg",
+      "id": "caroline"
+    }
+  ]
+}
